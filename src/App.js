@@ -39,7 +39,8 @@ function App() {
 
      
    })
-
+nameRef.current.value='';
+emailRef.current.value='';
     e.preventDefault()
  }
   
