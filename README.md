@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# this app is connected with node-start node app for get and post request.
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
